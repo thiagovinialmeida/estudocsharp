@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\bin\Debug\net9.0\dotnetTest.exe
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\bin\Debug\net9.0\dotnetTest.deps.json
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\bin\Debug\net9.0\dotnetTest.runtimeconfig.json
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\bin\Debug\net9.0\dotnetTest.dll
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\bin\Debug\net9.0\dotnetTest.pdb
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.AssemblyInfo.cs
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.sourcelink.json
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.dll
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\refint\dotnetTest.dll
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.pdb
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\dotnetTest.genruntimeconfig.cache
+C:\Users\SAMSUNG\Documents\csharp\dotnetTest\obj\Debug\net9.0\ref\dotnetTest.dll
